@@ -1,1 +1,0 @@
-m.kelas = "EKONOMI"; m.hargakelas = 200000;
