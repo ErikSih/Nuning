@@ -119,7 +119,6 @@ int main()
     i=0;
     uang=0;
 
-
     while (pesanlagi==true){
         system("cls"); // Clear tampilan
         cout << "Selamat Datang di Aplikasi Pemesanan Tiket Pesawat Bandara Bandar" << endl;
@@ -254,6 +253,7 @@ int main()
 
 			pesanlagi=false;}
     }
+
     cin.get();//Biar exe nggak langsung keluar
     cin.get();
     return 0;
