@@ -1,7 +1,7 @@
 #include <iostream>
 #include <cstdlib>
 #include <conio.h>
-//aaa
+//a
 using namespace std;
 
 //struct
